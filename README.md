@@ -10,7 +10,7 @@ I'm a passionate Software/Machine Learning Engineer with over four years of expe
 - **Integrations**: REST, SOAP, Email, API development
 
 ### 🌱 What I'm Working On
-- **Open Source**: Contributing to various ML/AI projects.
+- **Open Source**: Contributing to various AI/ML projects.
 - **Algorithm Development**: Creating optimized algorithms for Active Learning and AI-driven solutions.
 - **Continuous Learning**: Currently diving deeper into Natural Language Processing (NLP) and Large Language Models (LLMs).
 
@@ -22,6 +22,9 @@ I'm a passionate Software/Machine Learning Engineer with over four years of expe
 ### 🎯 Interests
 - I'm passionate about AI, ML, and Data Science, and I’m always on the lookout for innovative projects and collaborations.
 - I’m particularly interested in exploring the ethical implications of AI and working on projects that can make a positive impact on society.
+
+### 💬 Check my Profile
+- [Portfolio](https://varuntotakura.github.io/Resume.pdf)
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/varuntotakura/)
