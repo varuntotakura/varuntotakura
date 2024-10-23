@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Varun Totakura
 
-I'm a passionate Software/Machine Learning Engineer with over four years of experience in Software/ServiceNow development, Machine Learning, and AI. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from Florida State University.
+I'm a passionate Software/Machine Learning Engineer with over four years of experience in Software, Machine Learning, and AI development. My journey in tech began with a strong foundation in computer science, which I further solidified by earning a Master of Science in Computer Science from Florida State University.
 
 ### 🔧 Skills & Expertise
 - **Programming Languages**: Python, JavaScript
